@@ -71,13 +71,13 @@ Material:
     - _OcclusionStrength: 1
     - _QueueOffset: 0
     - _ReceiveShadows: 1
-    - _Size: 500
+    - _Size: 2.5
     - _Smoothness: 0.5
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
-    - _Speed: 0.005
+    - _Speed: 0.05
     - _SrcBlend: 1
-    - _Strength: 0.0075
+    - _Strength: 0.0025
     - _Surface: 0
     - _WorkflowMode: 1
     - _ZWrite: 1
